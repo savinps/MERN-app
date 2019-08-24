@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://savinps:savin123@devconnector-q3ctb.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mysecretkey",
+  "githubClientId": "dc280888843ff487d35d",
+  "githubSecret": "5d1dfd3ea23211ee6513aa6b523a9634dbfd592c"
+}
